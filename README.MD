@@ -1,7 +1,24 @@
-README.MD
+<!--
+Это многострочный комментарий.
+Он не будет отображаться при рендеринге Markdown.
+Здесь можно оставить заметки для разработчиков.
+-->
 
-``` TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest — TesTestTestTestTestTestTestTestTestTestt ```
+# Заголовок документа
 
-``` TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest-esTestTestTestTestTestTestTestTestTestt ```
+Это основной текст Markdown-файла.
 
-``` TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest—esTestTestTestTestTestTestTestTestTestt ```
+<!--
+Ещё один комментарий:
+- можно писать в несколько строк
+- можно оставлять TODO
+- можно временно скрывать пояснения
+-->
+
+## Список задач
+
+- Добавить описание
+- Проверить форматирование
+- Обновить примеры
+
+Текст после комментария тоже будет виден.
